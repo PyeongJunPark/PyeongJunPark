@@ -24,9 +24,8 @@ My current focus is heavily on **Deep Learning**, where I'm immersing myself in 
 
 ### Connect With Me!
 
-* **YouTube Channel**: [My YouTube Channel](https://www.youtube.com/@PJUNTE)
-* **Contact**: `[Your Email Address]` or `[Your LinkedIn Profile Link]`
-* **Blog/Portfolio**: `[Your Blog or Portfolio Link]`
+* **YouTube Channel**: [PJTeacher](https://www.youtube.com/@PJUNTE)
+* **Contact**: `[pjme2004@gmail.com]` 
 
 ---
 
