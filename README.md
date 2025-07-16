@@ -27,8 +27,4 @@ My current focus is heavily on **Deep Learning**, where I'm immersing myself in 
 * **YouTube Channel**: [PJTeacher](https://www.youtube.com/@PJUNTE)
 * **Contact**: `[pjme2004@gmail.com]` 
 
----
 
-### My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub ID]&show_icons=true&theme=radical)
