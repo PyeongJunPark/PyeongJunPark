@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-labelledby="title">
+  <title id="title">DockDack — Quant research</title>
+  <defs><clipPath id="frame"><rect width="560" height="180" rx="12"/></clipPath></defs>
+  <g clip-path="url(#frame)">
+    <rect width="560" height="180" fill="#e9efdf"/>
+    <path d="M0 145H560M0 105H560M0 65H560M365 0V180M425 0V180M485 0V180" stroke="#cdd9c2" stroke-width="1"/>
+    <text x="30" y="42" font-family="Consolas,monospace" font-size="14" letter-spacing="2" fill="#53724f">01 / QUANT RESEARCH</text>
+    <text x="28" y="109" font-family="'Segoe UI',Arial,sans-serif" font-size="46" font-weight="600" letter-spacing="-2" fill="#213c2c">DockDack</text>
+    <text x="31" y="147" font-family="'Segoe UI',Arial,sans-serif" font-size="17" fill="#53724f">Data. Models. Experiments.</text>
+    <g transform="translate(372 51)" fill="none" stroke="#527652" stroke-width="2">
+      <path d="M0 47L31 13L62 62L93 26L124 42L155 1"/>
+      <path d="M0 70L31 59L62 89L93 45L124 58L155 30" opacity=".35"/>
+      <circle cx="31" cy="13" r="4" fill="#e9efdf"/>
+      <circle cx="62" cy="62" r="4" fill="#e9efdf"/>
+      <circle cx="93" cy="26" r="4" fill="#e9efdf"/>
+      <circle cx="124" cy="42" r="4" fill="#e9efdf"/>
+      <circle cx="155" cy="1" r="5" fill="#527652"/>
+    </g>
+  </g>
+</svg>
