@@ -62,8 +62,8 @@ pyeongjun = {
 
 ## Achievements
 
-- **SQLD** — SQL 개발자 자격 취득 (2026)
-- **백준 / solved.ac** — [Platinum](https://solved.ac/profile/pjme040210)
+![SQLD](https://img.shields.io/badge/SQLD-2026-336791?style=flat-square)
+[![solved.ac Platinum](https://img.shields.io/badge/solved.ac-Platinum-27E2A4?style=flat-square)](https://solved.ac/profile/pjme040210)
 
 ## Studies
 
