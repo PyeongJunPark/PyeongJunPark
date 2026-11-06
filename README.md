@@ -52,7 +52,8 @@ pyeongjun = {
 
 #### <img src="https://raw.githubusercontent.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon/main/apps/mobile/assets/images/character-source.svg" height="32" align="center" alt="너구리 캐릭터"> [월계알리미](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
-지역 주민이 공공 공고의 핵심 내용과 신청 방법을 쉽게 확인하도록 돕는 애플리케이션입니다. 2026 KW 해커톤에서 **최종 9위**를 기록했습니다.
+지역 주민이 공공 공고의 핵심 내용과 신청 방법을 쉽게 확인하도록 돕는 애플리케이션입니다.  
+2026 KW 해커톤에서 **최종 9위**를 기록했습니다.
 
 **담당한 작업**
 
