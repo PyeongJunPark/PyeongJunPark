@@ -92,11 +92,11 @@ pyeongjun = {
 
 ## Certifications
 
-- SQLD
+- SQL 개발자(SQLD)
 
 ## Preparing
 
-- ADsP
+- 데이터분석 준전문가(ADsP)
 - 투자자산운용사
 - TOEIC
 
