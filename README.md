@@ -31,7 +31,7 @@ pyeongjun = {
 ### 2026
 
 - **Dean's List (성적우수상)** — 1학기
-- **STG Computer Vision Study**
+- **[STG Computer Vision Study](https://github.com/PyeongJunPark/STG)**
 - **[KW 해커톤](https://www.kw-hackathon.co.kr/results)** · 최종 9위
 
 ## Projects
@@ -76,7 +76,7 @@ pyeongjun = {
 - 연결 리스트, 트리 순회, 이진 탐색 트리의 기본 연산 학습 및 구현 연습
 - 주차별 학습 내용과 개인별 실습 코드를 GitHub에 기록
 
-### STG Computer Vision Study
+### [STG Computer Vision Study](https://github.com/PyeongJunPark/STG)
 
 2026 여름 · 컴퓨터비전·딥러닝 실습 및 팀 발표
 
