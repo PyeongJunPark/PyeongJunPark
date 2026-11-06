@@ -47,7 +47,7 @@ pyeongjun = {
 
 모델 평가와 주문·장부 처리의 신뢰성을 개선하며 개발을 이어가고 있습니다.
 
-### <img src="https://raw.githubusercontent.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon/main/apps/mobile/assets/images/character-source.svg" height="32" align="center" alt="너구리 캐릭터"> [Cotton Candy & Raccoon](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
+### <img src="https://raw.githubusercontent.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon/main/apps/mobile/assets/images/character-source.svg" height="32" align="center" alt="너구리 캐릭터"> [월계알리미](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
 공공 공고를 더 쉽게 이해할 수 있도록 돕는 팀 프로젝트입니다.  
 2026 KW 해커톤에서 **최종 9위**를 기록했습니다.
