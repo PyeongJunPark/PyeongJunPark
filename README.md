@@ -5,29 +5,29 @@ pyeongjun = {
     "name": "박평준",
     "school": "광운대학교",
     "major": "소프트웨어학부",
-    "interests": ["금융 데이터", "AI 응용", "알고리즘"],
-    "building": "DOCKDACK",
     "email": "pjme2004@gmail.com",
 }
 ```
 
-## Languages
+## Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ## Activities
 
 ### 2023
 
 - **입학** — 광운대학교 소프트웨어학부
-- **학업** — 1학기 차석 · 성적우수상 수상
+- **Dean's List (성적우수상)** — 1학기
 - **동아리** — 게임개발 동아리 활동
 
 ### 2026
 
-- **학업** — 1학기 수석 · 성적우수상 수상
+- **Dean's List (성적우수상)** — 1학기
 - **금융** — 글로벌 파이낸스 마이크로전공 이수 시작
 - **스터디** — 이윤구 교수님 진행 컴퓨터비전·딥러닝 스터디 참여
 - **해커톤** — KW 해커톤 참가 · 40팀 중 9위
@@ -67,7 +67,3 @@ pyeongjun = {
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pjme2004@gmail.com)
 [![solved.ac](https://img.shields.io/badge/solved.ac-17CE3A?style=flat-square)](https://solved.ac/profile/pjme040210)
-
-
-
-
