@@ -40,7 +40,7 @@ pyeongjun = {
 
 #### <img src="https://raw.githubusercontent.com/PyeongJunPark/dockdack/main/dockdack/assets/dockdack-mark.svg" height="32" align="center" alt="DOCKDACK 아이콘"> [DOCKDACK](https://github.com/PyeongJunPark/dockdack)
 
-금융 데이터 수집과 AI 매매 모델 실험을 위한 Windows 데스크톱 애플리케이션입니다. 개인 프로젝트로 개발하고 있으며, 제공 모델은 모의투자 환경에서 사용합니다.
+금융 데이터 수집과 AI 매매 모델 실험을 위한 Windows 데스크톱 애플리케이션입니다. 제공 모델은 모의투자 환경에서 사용합니다.
 
 - **데이터·모델 실험** — 국내·미국 주식 데이터 수집·정제, 모델 학습·백테스트와 모델별 신호 확인
 - **거래 기록 관리** — 키움증권 REST API를 연동해 시세·계좌를 조회하고 주문·체결·잔고와 매매일지를 관리
@@ -55,7 +55,7 @@ pyeongjun = {
 
 #### <img src="https://raw.githubusercontent.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon/main/apps/mobile/assets/images/character-source.svg" height="32" align="center" alt="너구리 캐릭터"> [월계알리미](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
-지역 주민이 공공 공고의 핵심 내용과 신청 방법을 쉽게 확인하도록 돕는 팀 프로젝트입니다. 2026 KW 해커톤에서 **최종 9위**를 기록했습니다.
+지역 주민이 공공 공고의 핵심 내용과 신청 방법을 쉽게 확인하도록 돕는 애플리케이션입니다. 2026 KW 해커톤에서 **최종 9위**를 기록했습니다.
 
 **담당한 작업**
 
