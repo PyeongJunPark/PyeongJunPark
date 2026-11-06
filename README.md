@@ -40,11 +40,11 @@ pyeongjun = {
 
 #### <img src="https://raw.githubusercontent.com/PyeongJunPark/dockdack/main/dockdack/assets/dockdack-mark.svg" height="32" align="center" alt="DOCKDACK 아이콘"> [DOCKDACK](https://github.com/PyeongJunPark/dockdack) (개발 중)
 
-국내·미국 주식 데이터를 바탕으로 AI 매매 모델을 실험하고, 모델별 신호와 거래 기록을 관리하는 데스크톱 앱입니다.
+주식 데이터 수집부터 AI 모델 학습·백테스트, 주문·체결 관리까지 연결한 금융 데이터 실험용 데스크톱 앱입니다.
 
-- 주가 데이터 수집·정제와 모델 학습·백테스트
-- 모델별 매매 신호, 보유 내역과 손익 확인
-- 증권사 API를 통한 주문·체결 관리
+- **데이터 분석** · 주가 데이터 수집·정제 및 모델 학습·백테스트
+- **모델 비교** · 모델별 매매 신호와 보유 내역·손익 확인
+- **거래 관리** · 증권사 API 연동을 통한 주문·체결 관리
 
 **사용 기술:** Python · PyTorch · 키움증권 REST API
 
