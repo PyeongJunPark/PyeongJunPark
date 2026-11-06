@@ -31,7 +31,6 @@ pyeongjun = {
 ### 2026
 
 - **Dean's List (성적우수상)** — 1학기
-- **금융** — 글로벌 파이낸스 마이크로전공 이수 시작
 - **STG Computer Vision Study** · 여름
 - **[KW 해커톤](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)** · 40팀 중 9위
 
