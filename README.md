@@ -28,7 +28,8 @@ pyeongjun = {
 
 - **Dean's List (성적우수상)** — 1학기
 - **금융** — 글로벌 파이낸스 마이크로전공 이수 시작
-- **스터디** — 이윤구 교수님 진행 컴퓨터비전·딥러닝 스터디 참여
+- **C++ 자료구조 스터디** · [GitHub](https://github.com/HyeoniGit/cpp-Data-Structure-Study)
+- **컴퓨터비전·딥러닝 스터디** · 이윤구 교수님 지도
 - **해커톤** — KW 해커톤 참가 · 40팀 중 9위
 
 ## Projects
