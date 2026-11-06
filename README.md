@@ -35,7 +35,7 @@ pyeongjun = {
 
 ## Projects
 
-### [DOCKDACK](https://github.com/PyeongJunPark/dockdack)
+### <img src="https://raw.githubusercontent.com/PyeongJunPark/dockdack/main/dockdack/assets/dockdack-mark.svg" height="32" align="center" alt="DOCKDACK 아이콘"> [DOCKDACK](https://github.com/PyeongJunPark/dockdack)
 
 금융 데이터 수집과 매매 모델 실험을 위한 데스크톱 애플리케이션입니다. 개인 프로젝트로 개발하고 있습니다.
 
@@ -46,7 +46,7 @@ pyeongjun = {
 
 모델 평가와 주문·장부 처리의 신뢰성을 개선하며 개발을 이어가고 있습니다.
 
-### [Cotton Candy & Raccoon](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
+### <img src="https://raw.githubusercontent.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon/main/apps/mobile/assets/images/character-source.svg" height="32" align="center" alt="너구리 캐릭터"> [Cotton Candy & Raccoon](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
 공공 공고를 더 쉽게 이해할 수 있도록 돕는 팀 프로젝트입니다.  
 2026 KW 해커톤에서 **40팀 중 9위**를 기록했습니다.
