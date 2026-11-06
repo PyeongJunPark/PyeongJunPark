@@ -32,7 +32,7 @@ pyeongjun = {
 
 - **Dean's List (성적우수상)** — 1학기
 - **STG Computer Vision Study**
-- **[KW 해커톤](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)** · 40팀 중 9위
+- **[KW 해커톤](https://www.kw-hackathon.co.kr/results)** · 최종 9위
 
 ## Projects
 
@@ -50,7 +50,7 @@ pyeongjun = {
 ### <img src="https://raw.githubusercontent.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon/main/apps/mobile/assets/images/character-source.svg" height="32" align="center" alt="너구리 캐릭터"> [Cotton Candy & Raccoon](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
 공공 공고를 더 쉽게 이해할 수 있도록 돕는 팀 프로젝트입니다.  
-2026 KW 해커톤에서 **40팀 중 9위**를 기록했습니다.
+2026 KW 해커톤에서 **최종 9위**를 기록했습니다.
 
 **담당한 작업**
 
