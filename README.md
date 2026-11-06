@@ -36,7 +36,7 @@ pyeongjun = {
 
 ## Projects
 
-### Personal Projects
+### Personal
 
 #### <img src="https://raw.githubusercontent.com/PyeongJunPark/dockdack/main/dockdack/assets/dockdack-mark.svg" height="32" align="center" alt="DOCKDACK 아이콘"> [DOCKDACK](https://github.com/PyeongJunPark/dockdack)
 
@@ -51,7 +51,7 @@ pyeongjun = {
 
 **프로젝트 사용 기술:** Python · PySide6 · PyTorch · 키움증권 REST API
 
-### Team Projects
+### Team
 
 #### <img src="https://raw.githubusercontent.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon/main/apps/mobile/assets/images/character-source.svg" height="32" align="center" alt="너구리 캐릭터"> [월계알리미](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
