@@ -79,6 +79,8 @@ pyeongjun = {
 
 #### [롤문철](https://github.com/dlwlstj1234/Team_rm-rf)
 
+<img src="assets/rollmuncheol-logo.png" width="320" alt="롤문철 로고">
+
 리그 오브 레전드 플레이 영상에 대한 AI 분석과 사용자 투표·댓글을 통해 게임 상황에 대한 의견을 비교하는 웹 서비스입니다.
 
 **담당한 작업**
