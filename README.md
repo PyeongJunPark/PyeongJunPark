@@ -40,12 +40,11 @@ pyeongjun = {
 
 #### <img src="https://raw.githubusercontent.com/PyeongJunPark/dockdack/main/dockdack/assets/dockdack-mark.svg" height="32" align="center" alt="DOCKDACK 아이콘"> [DOCKDACK](https://github.com/PyeongJunPark/dockdack) (개발 중)
 
-금융 데이터 수집과 AI 매매 모델 실험을 위한 Windows 데스크톱 애플리케이션입니다.
+국내·미국 주식 데이터를 바탕으로 AI 매매 모델을 실험하고, 모델별 신호와 거래 기록을 관리하는 데스크톱 앱입니다.
 
-- **데이터·모델 실험** — 국내·미국 주식 데이터 수집·정제, 모델 학습·백테스트와 모델별 신호 확인
-- **거래 기록 관리** — 키움증권 REST API를 연동해 시세·계좌를 조회하고 주문·체결·잔고와 매매일지를 관리
-- **모델별 주문 관리** — 모델별 보유 장부와 매수 한도, 미체결 예약액을 반영하고 중복 실행·주문을 방지하는 검사 적용
-- **검증·개선** — API 응답 대역을 활용한 자동 테스트와 데이터·모델 평가 과정의 한계 문서화
+- 주가 데이터 수집·정제와 모델 학습·백테스트
+- 모델별 매매 신호, 보유 내역과 손익 확인
+- 증권사 API를 통한 주문·체결 관리와 중복 주문 방지
 
 **사용 기술:** Python · PyTorch · 키움증권 REST API
 
@@ -53,15 +52,15 @@ pyeongjun = {
 
 #### <img src="https://raw.githubusercontent.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon/main/apps/mobile/assets/images/character-source.svg" height="32" align="center" alt="너구리 캐릭터"> [월계알리미](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
-지역 주민이 공공 공고의 핵심 내용과 신청 방법을 쉽게 확인하도록 돕는 애플리케이션입니다.  
+지역 공공 공고를 요약하고 쉬운 말로 풀어, 주민이 지원 대상·신청 기간·방법을 빠르게 파악하도록 돕는 앱입니다.  
 2026 KW 해커톤에서 **최종 9위**를 기록했습니다.
 
 **담당한 작업**
 
-- **공지 처리 연동** — 노원구·월계1동·서울시 공지 수집 이후 요약·쉬운말·사전 조회가 이어지도록 파이프라인 연결
-- **AI 요약·쉬운말** — Gemini 기반 4카드 요약, 문장 단위 쉬운 한국어 재작성과 원문 대비 의미 검토 적용
-- **원문 확인 기능** — 공고 카드의 원문 링크, 요약의 근거 문장 강조와 사전 뜻풀이 연결
-- **저장·오류 처리** — Supabase 조회 연동, 실패한 처리의 재시도와 기존 결과 보존, 관련 회귀 테스트 보완
+- 공지 수집부터 AI 요약·쉬운말 변환까지 자동 처리 연결
+- Gemini 기반 요약과 쉬운말 재작성, 원문과의 의미 비교
+- 요약의 근거 문장과 어려운 용어의 뜻풀이 연결
+- 처리 실패 시 재시도하고 기존 결과를 보존하도록 개선
 
 **사용 기술:** Python · Gemini API · Supabase
 
