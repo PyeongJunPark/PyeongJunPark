@@ -32,7 +32,7 @@ pyeongjun = {
 
 - **Dean's List (성적우수상)** — 1학기
 - **금융** — 글로벌 파이낸스 마이크로전공 이수 시작
-- **컴퓨터비전·딥러닝 스터디** · 여름
+- **STG Computer Vision Study** · 여름
 - **[KW 해커톤](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)** · 40팀 중 9위
 
 ## Projects
@@ -76,9 +76,9 @@ pyeongjun = {
 - 연결 리스트, 트리 순회, 이진 탐색 트리의 기본 연산 학습 및 구현 연습
 - 주차별 학습 내용과 개인별 실습 코드를 GitHub에 기록
 
-### 컴퓨터비전·딥러닝 스터디
+### STG Computer Vision Study
 
-2026 여름 · 이윤구 교수님 지도
+2026 여름
 
 - 컴퓨터비전 및 딥러닝 관련 주제 학습
 
