@@ -72,17 +72,17 @@ pyeongjun = {
 
 - **객체지향 프로그래밍** · 클래스·캡슐화·상속·다형성 등 C++ 객체지향 개념 학습
 - **자료구조 구현** · 연결 리스트·트리 순회·이진 탐색 트리의 기본 연산 학습 및 구현 연습
-- **학습 기록** · 주차별 학습 내용과 개인별 실습 코드를 GitHub에 정리
 
 ### [STG Computer Vision Study](https://github.com/PyeongJunPark/STG)
 
-2026.06–2026.08 · 컴퓨터비전·딥러닝 실습 및 팀 발표
+2026.06–2026.08 · 컴퓨터비전·딥러닝 실습
 
 - **영상 처리** · Mean·Gaussian·Bilateral·Median 필터의 노이즈 제거 효과와 Sobel·Laplacian 경계 검출 비교
 - **신경망 비교 실험** · DNN·CNN 구조와 학습률·배치 크기·활성화 함수·옵티마이저 변경에 따른 학습 결과 분석
 - **정규화·데이터 실험** · MNIST·CIFAR-10에서 Dropout·BatchNorm·학습 데이터 크기를 비교하고, 여러 시드의 결과를 평균·표준편차로 정리
 - **ResNet 재현 실습** · CIFAR-10에서 ResNet-110 실험 결과를 원 논문과 비교하고, ResNet-20의 Dropout 적용 결과 분석
 - **논문·개념 리뷰** · Transformer·Vision Transformer의 구조와 Null-text Inversion의 이미지 편집 방법 학습
+- **발표** · 주차별 실습 결과와 논문 리뷰 내용을 정리해 팀 발표 진행
 
 ### Baekjoon
 
