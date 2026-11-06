@@ -85,9 +85,9 @@ pyeongjun = {
 - **ResNet 재현 실습** — CIFAR-10에서 ResNet-110 실험 결과를 원 논문과 비교하고, ResNet-20의 Dropout 적용 결과 분석
 - **논문·개념 리뷰** — Transformer·Vision Transformer의 구조와 Null-text Inversion의 이미지 편집 방법 학습
 
-### [Baekjoon](https://solved.ac/profile/pjme040210)
+### Baekjoon
 
-알고리즘 문제 풀이 · solved.ac Platinum
+<a href="https://solved.ac/profile/pjme040210"><img src="https://mazassumnida.wtf/api/generate_badge?boj=pjme040210" width="280" alt="solved.ac 프로필 카드"></a>
 
 ## Certifications
 
@@ -100,7 +100,5 @@ pyeongjun = {
 - TOEIC
 
 ## Contact
-
-<a href="https://solved.ac/profile/pjme040210"><img src="https://mazassumnida.wtf/api/generate_badge?boj=pjme040210" width="280" alt="solved.ac 프로필 카드"></a>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pjme2004@gmail.com)
