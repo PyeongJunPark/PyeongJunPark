@@ -61,7 +61,7 @@ pyeongjun = {
 - **원문 확인 기능** — 공고 카드의 원문 링크, 요약의 근거 문장 강조와 사전 뜻풀이 연결
 - **저장·오류 처리** — Supabase 조회 연동, 실패한 처리의 재시도와 기존 결과 보존, 관련 회귀 테스트 보완
 
-**담당 영역 사용 기술:** Python · Gemini API · Supabase / PostgreSQL · React Native / TypeScript
+**사용 기술:** Python · Gemini API · Supabase
 
 ## Studies
 
