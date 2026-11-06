@@ -90,4 +90,3 @@ pyeongjun = {
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pjme2004@gmail.com)
-[![solved.ac](https://img.shields.io/badge/solved.ac-17CE3A?style=flat-square)](https://solved.ac/profile/pjme040210)
