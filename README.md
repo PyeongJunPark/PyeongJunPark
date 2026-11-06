@@ -29,7 +29,6 @@ pyeongjun = {
 
 - **학업** — 1학기 수석 · 성적우수상 수상
 - **금융** — 글로벌 파이낸스 마이크로전공 이수 시작
-- **자격** — SQLD 취득
 - **스터디** — 이윤구 교수님 진행 컴퓨터비전·딥러닝 스터디 참여
 - **해커톤** — KW 해커톤 참가 · 40팀 중 9위
 
@@ -59,9 +58,15 @@ pyeongjun = {
 
 **프로젝트 사용 기술:** Python · Gemini API · PostgreSQL
 
+## Certifications & Achievements
+
+- **SQLD** — SQL 개발자 자격 취득 (2026)
+- **백준 / solved.ac** — [Platinum](https://solved.ac/profile/pjme040210)
+
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pjme2004@gmail.com)
 [![solved.ac](https://img.shields.io/badge/solved.ac-17CE3A?style=flat-square)](https://solved.ac/profile/pjme040210)
+
 
 
