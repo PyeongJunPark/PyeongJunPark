@@ -26,12 +26,12 @@ pyeongjun = {
 
 ### 2025
 
-- **C++ 자료구조 스터디** · 시작
+- **C++ 자료구조 스터디**
 
 ### 2026
 
 - **Dean's List (성적우수상)** — 1학기
-- **STG Computer Vision Study** · 여름
+- **STG Computer Vision Study**
 - **[KW 해커톤](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)** · 40팀 중 9위
 
 ## Projects
