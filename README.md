@@ -65,9 +65,9 @@ pyeongjun = {
 
 **사용 기술:** Python · Gemini API · Supabase
 
-#### [ABS Mobile](https://github.com/PyeongJunPark/strikezone-abs-mobile) (개발 중)
+#### <img src="assets/abs-mobile-icon.png" height="32" align="center" alt="ABS Mobile 아이콘"> [ABS Mobile](https://github.com/PyeongJunPark/strikezone-abs-mobile) (개발 중)
 
-스마트폰으로 촬영한 야구 영상을 분석해 타자별 스트라이크존과 공의 궤적을 표시하고, 투구의 참고 판정을 제공하는 프로젝트입니다.
+스마트폰 영상에서 타자의 자세와 공의 움직임을 분석해, 실시간 스트라이크존 표시와 투구 판정 보조를 목표로 개발 중인 프로젝트입니다.
 
 **담당한 작업**
 
