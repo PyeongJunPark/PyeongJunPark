@@ -5,7 +5,7 @@ pyeongjun = {
     "name": "박평준",
     "school": "광운대학교",
     "major": "소프트웨어학부",
-    "micro_major": "글로벌 파이낸스",
+    "micro_major": "글로벌파이낸스",
     "email": "pjme2004@gmail.com",
 }
 ```
