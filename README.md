@@ -83,9 +83,9 @@ pyeongjun = {
 
 ## Preparing
 
-- **데이터 분석** — ADsP 준비
-- **금융·투자** — 투자자산운용사 준비
-- **영어** — TOEIC 준비
+![ADsP](https://img.shields.io/badge/ADsP-336791?style=flat-square)<br>
+![투자자산운용사](https://img.shields.io/badge/투자자산운용사-336791?style=flat-square)<br>
+![TOEIC](https://img.shields.io/badge/TOEIC-336791?style=flat-square)
 
 ## Contact
 
