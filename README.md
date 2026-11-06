@@ -40,7 +40,7 @@ pyeongjun = {
 
 #### <img src="https://raw.githubusercontent.com/PyeongJunPark/dockdack/main/dockdack/assets/dockdack-mark.svg" height="32" align="center" alt="DOCKDACK 아이콘"> [DOCKDACK](https://github.com/PyeongJunPark/dockdack)
 
-금융 데이터 수집과 AI 매매 모델 실험을 위한 Windows 데스크톱 애플리케이션입니다. 제공 모델은 모의투자 환경에서 사용합니다.
+금융 데이터 수집과 AI 매매 모델 실험을 위한 Windows 데스크톱 애플리케이션입니다.
 
 - **데이터·모델 실험** — 국내·미국 주식 데이터 수집·정제, 모델 학습·백테스트와 모델별 신호 확인
 - **거래 기록 관리** — 키움증권 REST API를 연동해 시세·계좌를 조회하고 주문·체결·잔고와 매매일지를 관리
