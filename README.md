@@ -43,7 +43,6 @@ https://readmedesign.com/templates/academic-bootcamp-graduate -->
 
 ### 개발 도구·프레임워크
 
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
@@ -56,7 +55,7 @@ https://readmedesign.com/templates/academic-bootcamp-graduate -->
 
 시장 데이터 수집, 모델 실험, 백테스트와 모의투자를 위한 앱입니다. 시세·계좌 조회와 모델별 신호를 한곳에서 확인할 수 있도록 구성했습니다.
 
-**사용 기술:** Python · PySide6  
+**프로젝트 기술 구성:** Python · PySide6  
 [📂 저장소 보기](https://github.com/PyeongJunPark/dockdack)
 
 ### Cotton Candy & Raccoon
