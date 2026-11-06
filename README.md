@@ -63,7 +63,7 @@ pyeongjun = {
 ## Achievements
 
 - SQLD
-- [백준 / solved.ac Platinum](https://solved.ac/profile/pjme040210)
+- [![solved.ac 미니 카드](https://mazassumnida.wtf/api/mini/generate_badge?boj=pjme040210)](https://solved.ac/profile/pjme040210)
 
 ## Studies
 
