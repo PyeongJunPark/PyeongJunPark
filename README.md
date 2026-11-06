@@ -14,7 +14,7 @@ pyeongjun = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ## Activities
@@ -62,6 +62,12 @@ pyeongjun = {
 
 - **SQLD** — SQL 개발자 자격 취득 (2026)
 - **백준 / solved.ac** — [Platinum](https://solved.ac/profile/pjme040210)
+
+## Studying
+
+- **데이터 분석** — ADsP 준비
+- **금융·투자** — 투자자산운용사 준비
+- **영어** — TOEIC 준비
 
 ## Contact
 
