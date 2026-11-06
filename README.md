@@ -16,11 +16,6 @@ https://readmedesign.com/templates/academic-bootcamp-graduate -->
   딥러닝 · AI 응용 · 금융 데이터 분석
 </p>
 
-<p align="center">
-  <a href="mailto:pjme2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일" /></a>
-  <a href="https://www.youtube.com/@PJUNTE"><img src="https://img.shields.io/badge/YouTube-PJTeacher-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube PJTeacher" /></a>
-</p>
-
 ---
 
 ## 👋 소개
@@ -88,6 +83,9 @@ https://readmedesign.com/templates/academic-bootcamp-graduate -->
 
 ---
 
-## 🤝 연락처
+## 🤝 연락처 · 개인 채널
 
-[이메일](mailto:pjme2004@gmail.com) · [YouTube / PJTeacher](https://www.youtube.com/@PJUNTE)
+<p align="center">
+  <a href="mailto:pjme2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일" /></a>
+  <a href="https://www.youtube.com/@PJUNTE"><img src="https://img.shields.io/badge/YouTube-%ED%8F%89%EC%A4%80%EC%84%A0%EC%83%9D-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube · 평준선생" /></a>
+</p>
