@@ -63,7 +63,7 @@ pyeongjun = {
 
 ## Achievements
 
-![SQLD](https://img.shields.io/badge/SQLD-336791?style=flat-square)
+![SQLD](https://img.shields.io/badge/SQLD-336791?style=flat-square)<br>
 [![solved.ac Platinum](https://img.shields.io/badge/solved.ac-Platinum-27E2A4?style=flat-square)](https://solved.ac/profile/pjme040210)
 
 ## Studies
