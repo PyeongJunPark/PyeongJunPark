@@ -62,8 +62,8 @@ pyeongjun = {
 
 ## Achievements
 
-![SQLD](https://img.shields.io/badge/SQLD-336791?style=flat-square)<br>
-[![solved.ac Platinum](https://img.shields.io/badge/solved.ac-Platinum-27E2A4?style=flat-square)](https://solved.ac/profile/pjme040210)
+- SQLD
+- [백준 / solved.ac Platinum](https://solved.ac/profile/pjme040210)
 
 ## Studies
 
@@ -83,9 +83,9 @@ pyeongjun = {
 
 ## Preparing
 
-![ADsP](https://img.shields.io/badge/ADsP-336791?style=flat-square)<br>
-![투자자산운용사](https://img.shields.io/badge/투자자산운용사-336791?style=flat-square)<br>
-![TOEIC](https://img.shields.io/badge/TOEIC-336791?style=flat-square)
+- ADsP
+- 투자자산운용사
+- TOEIC
 
 ## Contact
 
