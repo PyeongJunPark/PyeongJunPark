@@ -59,11 +59,9 @@ pyeongjun = {
 
 **프로젝트 사용 기술:** Python · Gemini API · PostgreSQL
 
-## Problem Solving
-
-**Baekjoon / solved.ac — Platinum**
-
 ## Contact
 
-[pjme2004@gmail.com](mailto:pjme2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pjme2004@gmail.com)
+[![solved.ac](https://img.shields.io/badge/solved.ac-17CE3A?style=flat-square)](https://solved.ac/profile/pjme040210)
+
 
