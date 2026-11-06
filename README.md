@@ -25,7 +25,7 @@ pyeongjun = {
 
 ### 2025
 
-- **SQLD 취득**
+- **SQL 개발자(SQLD) 취득**
 - **[C++ Data Structure Study](https://github.com/HyeoniGit/cpp-Data-Structure-Study)**
 
 ### 2026
