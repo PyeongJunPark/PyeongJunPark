@@ -1,51 +1,28 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="PyeongJun Park — From curiosity to code." />
-</p>
+# 박평준 | PyeongJun Park
 
-<p align="center">
-  <strong>Software student at Kwangwoon University.</strong><br />
-  Exploring deep learning, building with Python, and experimenting with Unity.
-</p>
+광운대학교 소프트웨어학부 재학생입니다.  
+딥러닝을 공부하며 Python으로 프로젝트를 개발하고, Unity를 활용한 개발에도 관심이 있습니다.
 
-<p align="center">
-  <a href="mailto:pjme2004@gmail.com">Email ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@PJUNTE">YouTube / PJTeacher ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/PyeongJunPark?tab=repositories">Repositories ↗</a>
-</p>
+[이메일](mailto:pjme2004@gmail.com) · [YouTube / PJTeacher](https://www.youtube.com/@PJUNTE) · [저장소](https://github.com/PyeongJunPark?tab=repositories)
 
-<br />
+## 주요 프로젝트
 
-### Selected work
+### [DockDack](https://github.com/PyeongJunPark/dockdack)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/PyeongJunPark/dockdack"><img src="./assets/dockdack.svg" width="100%" alt="DockDack — Quant research" /></a>
-      <h3><a href="https://github.com/PyeongJunPark/dockdack">DockDack ↗</a></h3>
-      <p>A research workbench for market data, model experiments, backtesting, and paper trading.</p>
-      <p><code>Python</code> <code>PySide6</code> <code>Quant Research</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon"><img src="./assets/notices.svg" width="100%" alt="Cotton Candy and Raccoon — AI for clearer public notices" /></a>
-      <h3><a href="https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon">Cotton Candy &amp; Raccoon ↗</a></h3>
-      <p>A 2026 KW Hackathon team project. My contributions: Gemini summaries, plain-language Korean, and source-linked notice cards.</p>
-      <p><code>Python</code> <code>Gemini</code> <code>PostgreSQL</code></p>
-    </td>
-  </tr>
-</table>
+시장 데이터 수집, 모델 실험, 백테스트와 모의투자를 위한 데스크톱 앱입니다.
 
-<br />
+- **사용 기술:** Python, PySide6
+- **주요 분야:** 금융 데이터 분석 및 모델 실험
 
-### Tools &amp; interests
+### [Cotton Candy & Raccoon](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
-**Languages** &nbsp; `Python` &nbsp; `C` &nbsp; `C++` &nbsp; `C#`<br />
-**Building with** &nbsp; `Unity` &nbsp; `PySide6`<br />
-**Exploring** &nbsp; Deep learning · AI applications · Quantitative research
+공공 공고를 더 쉽게 이해할 수 있도록 돕는 2026 광운대학교 해커톤 팀 프로젝트입니다.
 
-<br />
+- **담당:** Gemini 기반 요약, 쉬운 한국어 변환, 원문 링크를 포함한 공고 카드
+- **사용 기술:** Python, Gemini, PostgreSQL
 
----
+## 기술 및 관심 분야
 
-<p align="center"><sub>Always learning. Always making something.</sub></p>
+- **프로그래밍 언어:** Python, C, C++, C#
+- **개발 도구·프레임워크:** Unity, PySide6
+- **관심 분야:** 딥러닝, AI 응용, 금융 데이터 분석
