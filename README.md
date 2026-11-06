@@ -67,7 +67,7 @@ pyeongjun = {
 
 #### <img src="assets/abs-mobile-icon.png" height="32" align="center" alt="ABS Mobile 아이콘"> [ABS Mobile](https://github.com/PyeongJunPark/strikezone-abs-mobile) (개발 중)
 
-스마트폰 영상에서 타자의 자세와 공의 움직임을 분석해, 실시간 스트라이크존 표시와 투구 판정 보조를 목표로 개발 중인 프로젝트입니다.
+스마트폰 영상에서 타자의 자세와 공의 움직임을 분석해, 실시간 스트라이크존 표시와 투구 판정 보조를 목표로 하는 프로젝트입니다.
 
 **담당한 작업**
 
