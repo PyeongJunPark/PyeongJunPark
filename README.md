@@ -32,7 +32,7 @@ pyeongjun = {
 
 - **Dean's List (성적우수상)** — 1학기
 - **[STG Computer Vision Study](https://github.com/PyeongJunPark/STG)**
-- **[KW 해커톤](https://www.kw-hackathon.co.kr/results)** · 최종 9위
+- **[2026 KW 해커톤](https://www.kw-hackathon.co.kr/results)** · 최종 9위
 
 ## Projects
 
