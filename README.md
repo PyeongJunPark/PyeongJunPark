@@ -60,10 +60,9 @@ pyeongjun = {
 
 **프로젝트 사용 기술:** Python · Gemini API · PostgreSQL
 
-## Achievements
+## Certifications
 
 - SQLD
-- [![solved.ac 미니 카드](https://mazassumnida.wtf/api/mini/generate_badge?boj=pjme040210)](https://solved.ac/profile/pjme040210)
 
 ## Studies
 
@@ -90,3 +89,5 @@ pyeongjun = {
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pjme2004@gmail.com)
+
+<a href="https://solved.ac/profile/pjme040210"><img src="https://mazassumnida.wtf/api/generate_badge?boj=pjme040210" width="280" alt="solved.ac 프로필 카드"></a>
