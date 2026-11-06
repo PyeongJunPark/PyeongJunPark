@@ -70,11 +70,11 @@ pyeongjun = {
 
 ### [C++ Data Structure Study](https://github.com/HyeoniGit/cpp-Data-Structure-Study)
 
-2025.12–2026.02
+2025.12–2026.02 · C++·자료구조 학습 및 구현 실습
 
-- 클래스, 캡슐화, 상속과 다형성 등 C++ 객체지향 개념 학습
-- 연결 리스트, 트리 순회, 이진 탐색 트리의 기본 연산 학습 및 구현 연습
-- 주차별 학습 내용과 개인별 실습 코드를 GitHub에 기록
+- **객체지향 프로그래밍** — 클래스·캡슐화·상속·다형성 등 C++ 객체지향 개념 학습
+- **자료구조 구현** — 연결 리스트·트리 순회·이진 탐색 트리의 기본 연산 학습 및 구현 연습
+- **학습 기록** — 주차별 학습 내용과 개인별 실습 코드를 GitHub에 정리
 
 ### [STG Computer Vision Study](https://github.com/PyeongJunPark/STG)
 
