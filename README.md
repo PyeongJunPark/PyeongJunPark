@@ -24,11 +24,14 @@ pyeongjun = {
 - **Dean's List (성적우수상)** — 1학기
 - **동아리** — 게임개발 동아리 활동
 
+### 2025
+
+- **[C++ 자료구조 스터디](https://github.com/HyeoniGit/cpp-Data-Structure-Study)**
+
 ### 2026
 
 - **Dean's List (성적우수상)** — 1학기
 - **금융** — 글로벌 파이낸스 마이크로전공 이수 시작
-- **[C++ 자료구조 스터디](https://github.com/HyeoniGit/cpp-Data-Structure-Study)**
 - **컴퓨터비전·딥러닝 스터디** · 이윤구 교수님 지도
 - **[KW 해커톤](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)** · 40팀 중 9위
 
