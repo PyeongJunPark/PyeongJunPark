@@ -58,7 +58,7 @@ pyeongjun = {
 
 **프로젝트 사용 기술:** Python · Gemini API · PostgreSQL
 
-## Certifications & Achievements
+## Achievements
 
 - **SQLD** — SQL 개발자 자격 취득 (2026)
 - **백준 / solved.ac** — [Platinum](https://solved.ac/profile/pjme040210)
@@ -67,6 +67,7 @@ pyeongjun = {
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pjme2004@gmail.com)
 [![solved.ac](https://img.shields.io/badge/solved.ac-17CE3A?style=flat-square)](https://solved.ac/profile/pjme040210)
+
 
 
 
