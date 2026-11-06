@@ -78,9 +78,13 @@ pyeongjun = {
 
 ### STG Computer Vision Study
 
-2026 여름
+2026 여름 · 컴퓨터비전·딥러닝 실습 및 팀 발표
 
-- 컴퓨터비전 및 딥러닝 관련 주제 학습
+- **영상 처리** — Mean·Gaussian·Bilateral·Median 필터의 노이즈 제거 효과와 Sobel·Laplacian 경계 검출 비교
+- **신경망 비교 실험** — DNN·CNN 구조와 학습률·배치 크기·활성화 함수·옵티마이저 변경에 따른 학습 결과 분석
+- **정규화·데이터 실험** — MNIST·CIFAR-10에서 Dropout·BatchNorm·학습 데이터 크기를 비교하고, 여러 시드의 결과를 평균·표준편차로 정리
+- **ResNet 재현 실습** — CIFAR-10에서 ResNet-110 실험 결과를 원 논문과 비교하고, ResNet-20의 Dropout 적용 결과 분석
+- **논문·개념 리뷰** — Transformer·Vision Transformer의 구조와 Null-text Inversion의 이미지 편집 방법 학습
 
 ## Certifications
 
