@@ -1,90 +1,69 @@
-<!-- Adapted from ReadmeDesign: Academic & Bootcamp Graduate
-https://readmedesign.com/templates/academic-bootcamp-graduate -->
+## About
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a78bfa&height=180&section=header&text=PyeongJun%20Park&fontSize=42&fontColor=ffffff" width="100%" alt="PyeongJun Park" />
-</p>
+```python
+pyeongjun = {
+    "name": "박평준",
+    "school": "광운대학교",
+    "major": "소프트웨어학부",
+    "interests": ["금융 데이터", "AI 응용", "알고리즘"],
+    "building": "DOCKDACK",
+    "email": "pjme2004@gmail.com",
+}
+```
 
-# 🎓 안녕하세요, 박평준입니다
+## Languages
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=680&height=45&lines=%EA%B4%91%EC%9A%B4%EB%8C%80%ED%95%99%EA%B5%90%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80%20%EC%9E%AC%ED%95%99%EC%83%9D%3B%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC%20AI%20%EC%9D%91%EC%9A%A9%EC%9D%84%20%EA%B3%B5%EB%B6%80%ED%95%A9%EB%8B%88%EB%8B%A4%3B%EB%AA%A8%EB%8D%B8%20%EC%8B%A4%ED%97%98%EB%B6%80%ED%84%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B5%AC%ED%98%84%EA%B9%8C%EC%A7%80" alt="광운대학교 소프트웨어학부 재학생 · 딥러닝과 AI 응용을 공부합니다 · 모델 실험부터 프로그램 구현까지" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<p align="center">
-  <strong>광운대학교 소프트웨어학부 재학생</strong><br />
-  딥러닝 · AI 응용 · 금융 데이터 분석
-</p>
+## Activities
 
----
+### 2023
 
-## 👋 소개
+- **입학** — 광운대학교 소프트웨어학부
+- **학업** — 1학기 차석 · 성적우수상 수상
+- **동아리** — 게임개발 동아리 활동
 
-딥러닝을 공부하며 Python으로 프로젝트를 개발하고 있습니다. 모델 실험과 실제로 사용할 수 있는 AI 응용 프로그램에 관심이 있습니다.
+### 2026
 
-- **진행 중인 프로젝트:** 금융 데이터·모델 실험 앱 DockDack
-- **관심 분야:** 딥러닝, AI 응용, 금융 데이터 분석
-- **지원 목표:** 관심 분야의 연구실에서 학부연구생으로 연구 경험 쌓기
+- **학업** — 1학기 수석 · 성적우수상 수상
+- **금융** — 글로벌 파이낸스 마이크로전공 이수 시작
+- **자격** — SQLD 취득
+- **스터디** — 이윤구 교수님 진행 컴퓨터비전·딥러닝 스터디 참여
+- **해커톤** — KW 해커톤 참가 · 40팀 중 9위
 
-## 🎓 학력
+## Projects
 
-**광운대학교 소프트웨어학부 · 재학 중**
+### [DOCKDACK](https://github.com/PyeongJunPark/dockdack)
 
----
+금융 데이터 수집과 매매 모델 실험을 위한 데스크톱 애플리케이션입니다. 개인 프로젝트로 개발하고 있습니다.
 
-## 🛠️ 사용 기술
+- 시세·계좌 정보와 모델별 매매 신호를 한곳에서 확인
+- 주문·체결·잔고를 연결하는 모델별 장부 관리
+- 종목별·모델별 매수 한도와 중복 실행 처리
+- 설정 저장·복원 등 동작 개선과 테스트·문서화
 
-### 프로그래밍 언어
+모델 평가와 주문·장부 처리의 신뢰성을 개선하며 개발을 이어가고 있습니다.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
+### [Cotton Candy & Raccoon](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
-### 개발 도구·프레임워크
+공공 공고를 더 쉽게 이해할 수 있도록 돕는 팀 프로젝트입니다.  
+2026 KW 해커톤에서 **40팀 중 9위**를 기록했습니다.
 
-![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
+**담당한 작업**
 
----
+- Gemini 기반 공고 요약
+- 쉬운 한국어 변환
+- 원문 링크를 포함한 공고 카드
 
-## 🚀 주요 프로젝트
+**프로젝트 사용 기술:** Python · Gemini API · PostgreSQL
 
-### DockDack
+## Problem Solving
 
-> 금융 데이터 분석 · 모델 실험 · 데스크톱 앱
+**Baekjoon / solved.ac — Platinum**
 
-시장 데이터 수집, 모델 실험, 백테스트와 모의투자를 위한 앱입니다. 시세·계좌 조회와 모델별 신호를 한곳에서 확인할 수 있도록 구성했습니다.
+## Contact
 
-**프로젝트 기술 구성:** Python · PySide6  
-[📂 저장소 보기](https://github.com/PyeongJunPark/dockdack)
+[pjme2004@gmail.com](mailto:pjme2004@gmail.com)
 
-### Cotton Candy & Raccoon
-
-> 2026 광운대학교 해커톤 · 팀 프로젝트
-
-공공 공고를 더 쉽게 이해할 수 있도록 돕는 프로젝트입니다.
-
-**담당:** Gemini 기반 요약, 쉬운 한국어 변환, 원문 링크를 포함한 공고 카드  
-**사용 기술:** Python · Gemini · PostgreSQL  
-[📂 저장소 보기](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
-
----
-
-## 📊 GitHub 활동
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PyeongJunPark&theme=tokyonight" width="100%" alt="GitHub 기여 활동" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PyeongJunPark&theme=tokyonight" width="48%" alt="GitHub 공개 활동 통계" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PyeongJunPark&theme=tokyonight" width="48%" alt="저장소별 사용 언어" />
-</p>
-
----
-
-## 🤝 연락처
-
-<p align="center">
-  <a href="mailto:pjme2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일" /></a>
-  <a href="https://www.youtube.com/@PJUNTE"><img src="https://img.shields.io/badge/YouTube-%ED%8F%89%EC%A4%80%EC%84%A0%EC%83%9D-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube · 평준선생" /></a>
-</p>
