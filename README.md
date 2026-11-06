@@ -20,7 +20,7 @@ pyeongjun = {
 
 ### 2023
 
-- **Dean's List (성적우수상)** — 1학기
+- **Dean's List (성적우수상)** · 1학기
 - **[게임개발 동아리](https://github.com/Team-ManLap/LevelUpWithOutMe/tree/develop)** · Unity 게임 개발 참여 (프로젝트 중단)
 
 ### 2025
@@ -30,7 +30,7 @@ pyeongjun = {
 
 ### 2026
 
-- **Dean's List (성적우수상)** — 1학기
+- **Dean's List (성적우수상)** · 1학기
 - **[STG Computer Vision Study](https://github.com/PyeongJunPark/STG)**
 - **[2026 KW 해커톤](https://www.kw-hackathon.co.kr/results)** · 최종 9위
 
@@ -39,12 +39,13 @@ pyeongjun = {
 ### Personal
 
 #### <img src="https://raw.githubusercontent.com/PyeongJunPark/dockdack/main/dockdack/assets/dockdack-mark.svg" height="32" align="center" alt="DOCKDACK 아이콘"> [DOCKDACK](https://github.com/PyeongJunPark/dockdack) (개발 중)
+
 금융 데이터 수집과 AI 매매 모델 실험을 위한 Windows 데스크톱 애플리케이션입니다.
 
 - **데이터·모델 실험** — 국내·미국 주식 데이터 수집·정제, 모델 학습·백테스트와 모델별 신호 확인
 - **거래 기록 관리** — 키움증권 REST API를 연동해 시세·계좌를 조회하고 주문·체결·잔고와 매매일지를 관리
 - **모델별 주문 관리** — 모델별 보유 장부와 매수 한도, 미체결 예약액을 반영하고 중복 실행·주문을 방지하는 검사 적용
-- **검증·개선** — API 응답 대역을 활용한 자동 테스트와 데이터·모델 평가 과정의 한계 문서화
+- **검증·개선** — 모의 API 응답을 활용한 자동 테스트와 데이터·모델 평가 과정의 한계 문서화
 
 **사용 기술:** Python · PyTorch · 키움증권 REST API
 
@@ -68,7 +69,7 @@ pyeongjun = {
 
 ### [C++ Data Structure Study](https://github.com/HyeoniGit/cpp-Data-Structure-Study)
 
-2025.12–2026.02 · C++·자료구조 학습 및 구현 실습
+2025.12–2026.02 · C++ 기반 자료구조 학습 및 구현 실습
 
 - **객체지향 프로그래밍** — 클래스·캡슐화·상속·다형성 등 C++ 객체지향 개념 학습
 - **자료구조 구현** — 연결 리스트·트리 순회·이진 탐색 트리의 기본 연산 학습 및 구현 연습
