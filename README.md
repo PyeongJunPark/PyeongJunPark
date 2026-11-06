@@ -5,6 +5,7 @@ pyeongjun = {
     "name": "박평준",
     "school": "광운대학교",
     "major": "소프트웨어학부",
+    "year": "2학년",
     "micro_major": "글로벌파이낸스",
     "email": "pjme2004@gmail.com",
 }
@@ -63,6 +64,14 @@ pyeongjun = {
 - **전시·홍보** · 전시회 관람객 대상 앱 시연 및 서비스 소개
 
 **사용 기술:** Python · Gemini API · Supabase
+
+#### [스트라이크존](https://github.com/PyeongJunPark/strikezone-abs-mobile) (개발 중)
+
+야구 영상에서 타자의 자세와 공의 움직임을 분석해 스트라이크존을 표시하고, 투구의 참고 판정을 제공하는 프로젝트입니다.
+
+#### [롤문철](https://github.com/dlwlstj1234/Team_rm-rf)
+
+리그 오브 레전드 플레이 영상의 AI 분석과 사용자 투표·댓글을 결합한 웹 서비스입니다.
 
 ## Studies
 
