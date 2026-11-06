@@ -38,31 +38,29 @@ pyeongjun = {
 
 ### <img src="https://raw.githubusercontent.com/PyeongJunPark/dockdack/main/dockdack/assets/dockdack-mark.svg" height="32" align="center" alt="DOCKDACK 아이콘"> [DOCKDACK](https://github.com/PyeongJunPark/dockdack)
 
-금융 데이터 수집과 매매 모델 실험을 위한 데스크톱 애플리케이션입니다. 개인 프로젝트로 개발하고 있습니다.
+금융 데이터 수집과 AI 매매 모델 실험을 위한 Windows 데스크톱 애플리케이션입니다. 개인 프로젝트로 개발하고 있으며, 제공 모델은 모의투자 환경에서 사용합니다.
 
-- 시세·계좌 정보와 모델별 매매 신호를 한곳에서 확인
-- 주문·체결·잔고를 연결하는 모델별 장부 관리
-- 종목별·모델별 매수 한도와 중복 실행 처리
-- 설정 저장·복원 등 동작 개선과 테스트·문서화
+- **데이터·모델 실험** — 국내·미국 주식 데이터 수집·정제, 모델 학습·백테스트와 모델별 신호 확인
+- **거래 기록 관리** — 키움증권 REST API를 연동해 시세·계좌를 조회하고 주문·체결·잔고와 매매일지를 관리
+- **모델별 주문 관리** — 모델별 보유 장부와 매수 한도, 미체결 예약액을 반영하고 중복 실행·주문을 방지하는 검사 적용
+- **검증·개선** — API 응답 대역을 활용한 자동 테스트와 데이터·모델 평가 과정의 한계 문서화
 
-모델 평가와 주문·장부 처리의 신뢰성을 개선하며 개발을 이어가고 있습니다.
+모델의 수익성이나 실계좌 운영 안정성이 검증된 서비스는 아닙니다.
+
+**프로젝트 사용 기술:** Python · PySide6 · PyTorch · 키움증권 REST API
 
 ### <img src="https://raw.githubusercontent.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon/main/apps/mobile/assets/images/character-source.svg" height="32" align="center" alt="너구리 캐릭터"> [월계알리미](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
-공공 공고를 더 쉽게 이해할 수 있도록 돕는 팀 프로젝트입니다.  
-2026 KW 해커톤에서 **최종 9위**를 기록했습니다.
+지역 주민이 공공 공고의 핵심 내용과 신청 방법을 쉽게 확인하도록 돕는 팀 프로젝트입니다. 2026 KW 해커톤에서 **최종 9위**를 기록했습니다.
 
 **담당한 작업**
 
-- Gemini 기반 공고 요약
-- 쉬운 한국어 변환
-- 원문 링크를 포함한 공고 카드
+- **공지 처리 연동** — 노원구·월계1동·서울시 공지 수집 이후 요약·쉬운말·사전 조회가 이어지도록 파이프라인 연결
+- **AI 요약·쉬운말** — Gemini 기반 4카드 요약, 문장 단위 쉬운 한국어 재작성과 원문 대비 의미 검토 적용
+- **원문 확인 기능** — 공고 카드의 원문 링크, 요약의 근거 문장 강조와 사전 뜻풀이 연결
+- **저장·오류 처리** — Supabase 조회 연동, 실패한 처리의 재시도와 기존 결과 보존, 관련 회귀 테스트 보완
 
-**프로젝트 사용 기술:** Python · Gemini API · PostgreSQL
-
-## Certifications
-
-- SQLD
+**담당 영역 사용 기술:** Python · Gemini API · Supabase / PostgreSQL · React Native / TypeScript
 
 ## Studies
 
@@ -79,6 +77,10 @@ pyeongjun = {
 2026 여름
 
 - 컴퓨터비전 및 딥러닝 관련 주제 학습
+
+## Certifications
+
+- SQLD
 
 ## Preparing
 
