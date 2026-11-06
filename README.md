@@ -78,7 +78,7 @@ pyeongjun = {
 
 ### [STG Computer Vision Study](https://github.com/PyeongJunPark/STG)
 
-2026 여름 · 컴퓨터비전·딥러닝 실습 및 팀 발표
+2026.06–2026.08 · 컴퓨터비전·딥러닝 실습 및 팀 발표
 
 - **영상 처리** — Mean·Gaussian·Bilateral·Median 필터의 노이즈 제거 효과와 Sobel·Laplacian 경계 검출 비교
 - **신경망 비교 실험** — DNN·CNN 구조와 학습률·배치 크기·활성화 함수·옵티마이저 변경에 따른 학습 결과 분석
