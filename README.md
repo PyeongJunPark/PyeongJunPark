@@ -21,7 +21,7 @@ pyeongjun = {
 ### 2023
 
 - **Dean's List (성적우수상)** — 1학기
-- **게임개발 동아리**
+- **[게임개발 동아리](https://github.com/Team-ManLap/LevelUpWithOutMe/tree/develop)** · 개발 중단
 
 ### 2025
 
