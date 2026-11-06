@@ -88,6 +88,6 @@ pyeongjun = {
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pjme2004@gmail.com)
-
 <a href="https://solved.ac/profile/pjme040210"><img src="https://mazassumnida.wtf/api/generate_badge?boj=pjme040210" width="280" alt="solved.ac 프로필 카드"></a>
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pjme2004@gmail.com)
