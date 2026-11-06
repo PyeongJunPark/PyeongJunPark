@@ -45,7 +45,7 @@ pyeongjun = {
 - **데이터·모델 실험** — 국내·미국 주식 데이터 수집·정제, 모델 학습·백테스트와 모델별 신호 확인
 - **거래 기록 관리** — 키움증권 REST API를 연동해 시세·계좌를 조회하고 주문·체결·잔고와 매매일지를 관리
 - **모델별 주문 관리** — 모델별 보유 장부와 매수 한도, 미체결 예약액을 반영하고 중복 실행·주문을 방지하는 검사 적용
-- **검증·개선** — 모의 API 응답을 활용한 자동 테스트와 데이터·모델 평가 과정의 한계 문서화
+- **검증·개선** — API 응답 대역을 활용한 자동 테스트와 데이터·모델 평가 과정의 한계 문서화
 
 **사용 기술:** Python · PyTorch · 키움증권 REST API
 
@@ -84,6 +84,10 @@ pyeongjun = {
 - **정규화·데이터 실험** — MNIST·CIFAR-10에서 Dropout·BatchNorm·학습 데이터 크기를 비교하고, 여러 시드의 결과를 평균·표준편차로 정리
 - **ResNet 재현 실습** — CIFAR-10에서 ResNet-110 실험 결과를 원 논문과 비교하고, ResNet-20의 Dropout 적용 결과 분석
 - **논문·개념 리뷰** — Transformer·Vision Transformer의 구조와 Null-text Inversion의 이미지 편집 방법 학습
+
+### [Baekjoon](https://solved.ac/profile/pjme040210)
+
+알고리즘 문제 풀이 · solved.ac Platinum
 
 ## Certifications
 
