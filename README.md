@@ -30,7 +30,7 @@ pyeongjun = {
 - **금융** — 글로벌 파이낸스 마이크로전공 이수 시작
 - **C++ 자료구조 스터디** · [GitHub](https://github.com/HyeoniGit/cpp-Data-Structure-Study)
 - **컴퓨터비전·딥러닝 스터디** · 이윤구 교수님 지도
-- **[KW 해커톤](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)** · Cotton Candy & Raccoon · 40팀 중 9위
+- **KW 해커톤** · 40팀 중 9위 · [GitHub](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
 ## Projects
 
