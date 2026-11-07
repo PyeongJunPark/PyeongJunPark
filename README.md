@@ -33,7 +33,7 @@ pyeongjun = {
 
 - **Dean's List (성적우수상)** · 1학기
 - **[STG Computer Vision Study](https://github.com/PyeongJunPark/STG)**
-- **[2026 KW 해커톤](https://www.kw-hackathon.co.kr/results)** · 최종 9위
+- **[2026 KW 해커톤](https://www.kw-hackathon.co.kr/results)** · 9위
 
 ## Projects
 
@@ -54,7 +54,7 @@ pyeongjun = {
 #### <img src="https://raw.githubusercontent.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon/main/apps/mobile/assets/images/character-source.svg" height="32" align="center" alt="너구리 캐릭터"> [월계알리미](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
 지역 공공 공고를 요약하고 쉬운 말로 풀어, 주민이 지원 대상·신청 기간·방법을 빠르게 파악하도록 돕는 앱입니다.  
-2026 KW 해커톤에서 **최종 9위**를 기록했습니다.
+2026 KW 해커톤에서 **9위**를 기록했습니다.
 
 **담당한 작업**
 
